@@ -35,18 +35,7 @@ bottomSections:
 
 
           Our mission is to create a world where curiosity thrives, and every
-          moment becomes an opportunity to explore, learn, and grow. Whether
-          it’s diving into new ideas, sparking creativity, or uncovering
-          unexpected insights, Amuse is here to make learning a delightful part
-          of your day.
-
-
-          Join us as we inspire a global community of learners to make every
-          moment count. Let’s keep a little mystery though; the best discoveries
-          are the ones you make yourself.
-
-
-          Find your spark. Learn something new.
+          moment becomes an opportunity to explore, learn, and grow.
         image:
           url: /images/Thumbnail v.1 (1).png
           altText: Company logo
