@@ -4,7 +4,9 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Excited about
+      text: >-
+        Excited about creating exceptional digital products that solve real user
+        problems and drive business growth
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
