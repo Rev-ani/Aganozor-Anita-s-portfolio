@@ -12,7 +12,7 @@ sections:
     subtitle: ''
     text: ''
     actions:
-      - label: Get started
+      - label: Let’s Talk
         altText: ''
         url: /
         showIcon: false
