@@ -33,7 +33,7 @@ bottomSections:
           lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at
           auctor sapien.
         image:
-          url: /images/Frame 64.png
+          url: /images/Thumbnail v.1 (1).png
           altText: Company logo
           styles:
             self:
