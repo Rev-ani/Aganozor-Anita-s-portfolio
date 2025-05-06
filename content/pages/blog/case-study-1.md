@@ -27,7 +27,7 @@ bottomSections:
     type: DividerSection
   - items:
       - title: About Company
-        tagline: Un
+        tagline: 'Unlock Your Potential,One spark at a time'
         subtitle: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
           lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at
