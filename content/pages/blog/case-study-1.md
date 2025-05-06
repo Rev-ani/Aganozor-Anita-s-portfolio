@@ -91,7 +91,9 @@ styles:
     flexDirection: col
 type: PostLayout
 ---
-![](/images/Thumbnail%20v.1%20\(1\).png)<https://www.amuse.so/>As one of the earliest Product Managers at Amuse, I was instrumental in shaping the company’s features which brought about user retention. I led the development of personalized onboarding flows, gamified features like streaks and badges, and user-focused tools such as Super Review, aligning them with both company goals and user feedback. I bridged communication gaps between engineering, design, and users—helping the team iterate efficiently while maintaining strategic clarity.
+![](/images/Thumbnail%20v.1%20\(1\).png)<https://www.amuse.so/>
+
+As one of the earliest Product Managers at Amuse, I was instrumental in shaping the company’s features which brought about user retention. I led the development of personalized onboarding flows, gamified features like streaks and badges, and user-focused tools such as Super Review, aligning them with both company goals and user feedback. I bridged communication gaps between engineering, design, and users—helping the team iterate efficiently while maintaining strategic clarity.
 
 As I grew within the organization, I transitioned into a strategy-focused role—overseeing product lifecycle management, aligning team execution with our evolving mission, and ensuring a consistent understanding of long-term business objectives across all stakeholders.
 
@@ -116,5 +118,3 @@ As I grew within the organization, I transitioned into a strategy-focused role�
 *   Launched App Store Optimization (ASO) strategies, improving visibility and user acquisition by 30%.
 
 LAUNCHED APPLICATIONS & FIGMA DESIGNS
-
-<https://www.amuse.so/>
