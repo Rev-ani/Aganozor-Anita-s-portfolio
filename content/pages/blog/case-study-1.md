@@ -87,15 +87,34 @@ styles:
     flexDirection: col
 type: PostLayout
 ---
+As one of the earliest Product Managers at Amuse, I was instrumental in shaping the company’s features which brought about user retention. I led the development of personalized onboarding flows, gamified features like streaks and badges, and user-focused tools such as Super Review, aligning them with both company goals and user feedback. I bridged communication gaps between engineering, design, and users—helping the team iterate efficiently while maintaining strategic clarity.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien. Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem pellentesque fermentum. Sed in facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper. Donec sed facilisis nibh. Curabitur eget dui in libero euismod commodo nec sit amet est. Etiam id ipsum aliquam, vehicula erat sit amet, consequat tortor.
+As I grew within the organization, I transitioned into a strategy-focused role—overseeing product lifecycle management, aligning team execution with our evolving mission, and ensuring a consistent understanding of long-term business objectives across all stakeholders. 
 
-> Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis. In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
->
-> _By Clara White - VP of Marketing_
 
-Vestibulum ullamcorper risus auctor eleifend consequat. Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
 
-![](/images/img-placeholder.svg)
+**MY CONTRIBUTIONS:**
 
-Nam rutrum magna sed pellentesque lobortis. Etiam quam mauris, iaculis eget ex ac, rutrum scelerisque nisl. Cras finibus dictum ex sed tincidunt. Morbi facilisis neque porta, blandit mauris quis, pharetra odio. Aliquam dictum quam quis elit auctor, at vestibulum ex pulvinar. Quisque lobortis a lectus quis faucibus. Nulla vitae pellentesque nibh, et fringilla erat. Praesent placerat ac est at tincidunt. Praesent ultricies a ex at ultrices. Etiam sed tincidunt elit. Nulla sagittis neque neque, ultrices dignissim sapien pellentesque faucibus. Donec tempor orci sed consectetur dictum. Ut viverra ut enim ac semper. Integer lacinia sem in arcu tempor faucibus eget non urna. Praesent vel nunc eu libero aliquet interdum non vitae elit. Maecenas pharetra ipsum dolor, et iaculis elit ornare ac.
+*   Identified new product opportunities through user research and internal needs assessments; translated findings into clear product requirements.
+
+*   Led reviews of active products, introducing key improvements based on usage data and feedback loops.
+
+*   Presented product performance metrics and user insights to senior leadership to support strategic decisions.
+
+*   Ensured continuity and clarity from ideation to launch, maintaining a unified product vision.
+
+
+
+**RESULTS:**
+
+*   Managed the development and launch of Amuse, a learning platform, leading strategy, execution, and post-launch optimizations.
+
+*   Spearheaded product ideation, driving new features that increased retention rates by 17%.
+
+*   Conducted stakeholder management, aligning product goals with business objectives.
+
+*   Launched App Store Optimization (ASO) strategies, improving visibility and user acquisition by 30%.
+
+
+
+LAUNCHED APPLICATIONS & FIGMA DESIGNS![](/images/img-placeholder.svg)
